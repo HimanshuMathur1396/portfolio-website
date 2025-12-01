@@ -35,13 +35,6 @@
 - [x] Technology icons (Font Awesome)
 - [x] Hover effects
 
-### Projects Section
-- [x] Project filtering system
-- [x] Hover overlays with links
-- [x] Technology tags
-- [x] Responsive grid layout
-- [x] Project descriptions
-
 ### Contact Section
 - [x] Contact form with validation
 - [x] Contact information display
@@ -80,7 +73,6 @@
 - [ ] Theme toggle persistence
 - [ ] Smooth scrolling
 - [ ] Form validation
-- [ ] Project filtering
 - [ ] Skill bar animations
 - [ ] Counter animations
 - [ ] Back-to-top button

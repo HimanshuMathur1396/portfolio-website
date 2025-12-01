@@ -17,7 +17,6 @@ This is a modern, responsive portfolio website built with HTML, CSS, and JavaScr
 - Mobile-friendly hamburger menu
 - Typing animation in hero section
 - Animated skill progress bars
-- Project filtering system
 - Contact form with validation
 - Back-to-top button
 - Scroll-based animations
@@ -33,7 +32,7 @@ This is a modern, responsive portfolio website built with HTML, CSS, and JavaScr
 1. **Hero Section** - Introduction with typing animation
 2. **About** - Personal information and statistics
 3. **Skills** - Technical skills with progress bars
-4. **Projects** - Portfolio projects with filtering
+4. **Experience** - Job experience and responsibilities
 5. **Contact** - Contact form and information
 6. **Footer** - Social links and copyright
 
@@ -46,13 +45,7 @@ Update the following in `index.html`:
 - Modify the typing animation texts in `script.js`
 - Update phone number and location in contact section
 
-### 2. Projects
-- Replace project images in the `assets` folder
-- Update project titles, descriptions, and tech stacks
-- Modify project links to point to your actual projects
-- Add or remove project categories as needed
-
-### 3. Skills
+### 2. Skills
 - Update skill categories and items
 - Modify progress percentages
 - Add or remove skills based on your expertise
@@ -64,11 +57,17 @@ Replace the following placeholder images in the `assets` folder:
 - `about-image.jpg` - About section image
 - `project1.jpg` - Project 1 screenshot
 - `project2.jpg` - Project 2 screenshot
-- `project3.jpg` - Project 3 screenshot
-- `project4.jpg` - Project 4 screenshot
+### 3. Images
+Replace the following placeholder images in the `assets` folder:
+- `profile.jpg` - Your profile photo (300x300px recommended)
+- `about-image.jpg` - About section image
 - `favicon.ico` - Website favicon
 
-### 5. Colors & Styling
+### 4. Colors & Styling93fb;     /* Accent color */
+    /* ... other colors */
+}
+```
+### 4. Colors & Styling
 Modify CSS custom properties in `styles.css`:
 ```css
 :root {
@@ -79,17 +78,7 @@ Modify CSS custom properties in `styles.css`:
 }
 ```
 
-### 6. Contact Form
-The contact form currently shows a success message. To make it functional:
-
-1. **Backend Integration**: Connect to a backend service
-2. **Email Service**: Use services like EmailJS, Formspree, or Netlify Forms
-3. **Server-side**: Set up your own server with Node.js/Express
-
-Example with EmailJS:
-```html
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
-```
+### 5. Contact Form
 
 ## File Structure
 ```
