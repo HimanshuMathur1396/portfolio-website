@@ -130,24 +130,6 @@ portfolio/
 - Mobile-friendly design
 - Proper heading hierarchy
 
-## Getting Started
-
-1. **Download/Clone** the portfolio files
-2. **Replace placeholder content** with your information
-3. **Add your images** to the assets folder
-4. **Customize colors** and styling to match your brand
-5. **Test responsiveness** on different devices
-6. **Deploy** to your preferred hosting service
-
-## Hosting Options
-- **GitHub Pages** - Free hosting for static sites
-- **Netlify** - Modern deployment platform
-- **Vercel** - Frontend deployment platform
-- **Traditional hosting** - Any web hosting service
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Support
 If you need help customizing this portfolio or have questions, feel free to reach out!
 
